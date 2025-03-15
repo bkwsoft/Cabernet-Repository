@@ -1,1 +1,0 @@
-- PTS Resync on filtered streams must be false.  Changed default to False.
